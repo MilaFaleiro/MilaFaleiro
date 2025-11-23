@@ -17,6 +17,19 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
   <img width="12" />
+
+  ## 📊 GitHub Analytics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MilaFaleiro&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MilaFaleiro&layout=compact&theme=radical)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=MilaFaleiro&theme=radical)
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MilaFaleiro&theme=react-dark" />
+
+###
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
