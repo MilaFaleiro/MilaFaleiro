@@ -1,4 +1,4 @@
-<h2 align="left">Camila Faleiro<br><br>Estudante de Ciência da Computação | Desenvolvimento de Sistemas | Backend</h2>
+<h2 align="left">Camila Faleiro<br><br>Estudante de Ciência da Computação | Desenvolvimento de Sistemas </h2>
 
 ###
 
